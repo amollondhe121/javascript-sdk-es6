@@ -1,6 +1,7 @@
 {
   "name": "verbwire_api_documentation",
   "version": "1.0.0",
+  "type": "module",
   "description": "Object",
   "license": "Unlicense",
   "main": "src/index.js",

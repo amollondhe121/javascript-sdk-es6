@@ -138,7 +138,7 @@ import UserApi from './api/UserApi';
 * @module index
 * @version 1.0.0
 */
-export {
+export default {
     /**
      * The ApiClient constructor.
      * @property {module:ApiClient}
